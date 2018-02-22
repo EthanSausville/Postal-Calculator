@@ -1,0 +1,9 @@
+C:\Users\Ethan\Documents\My Code\Postal Calculator\Postal Calculator\bin\Postal Calculator.dll.config
+C:\Users\Ethan\Documents\My Code\Postal Calculator\Postal Calculator\bin\Postal Calculator.dll
+C:\Users\Ethan\Documents\My Code\Postal Calculator\Postal Calculator\bin\Postal Calculator.pdb
+C:\Users\Ethan\Documents\My Code\Postal Calculator\Postal Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethan\Documents\My Code\Postal Calculator\Postal Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethan\Documents\My Code\Postal Calculator\Postal Calculator\obj\Debug\Postal Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\Postal Calculator\Postal Calculator\obj\Debug\Postal Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\Postal Calculator\Postal Calculator\obj\Debug\Postal Calculator.dll
+C:\Users\Ethan\Documents\My Code\Postal Calculator\Postal Calculator\obj\Debug\Postal Calculator.pdb
